@@ -1,0 +1,16 @@
+.fon{
+    background-color: black;
+}
+nav a{
+    margin: 10px;
+    text-align: center;
+    padding: 7px;
+    border: 3px double white;
+    font-size: 25px;
+    color:white;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
